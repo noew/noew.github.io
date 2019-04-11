@@ -11,10 +11,5 @@ url: "http://www.noewiener.com"
 email: nwiener@umass.edu
 github_username: noew
 author_website: http://www.noewiener.com
-curriculum:
+curriculum: CV
   url: assets/wiener_cv_web.pdf
-
-# Nav menu
-nav_ext_links:
-  - name: Blog
-    url:
