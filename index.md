@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: about
 title: Noe M. Wiener - Economics
-description: This is the homepage of Noe M. Wiener, Lecturer in Economics at UMass Amherst.
-keywords: noe wiener,economics,inequality,economy,econometrics
+description: Noé M. Wiener, Lecturer in Economics at the University of Massachusetts Amherst
+keywords: noe wiener,economics,inequality,econophysics,econometrics
 ---
 
 Welcome to my webpage! I am an economist working on migration, income inequality and the dynamics of labor markets.
