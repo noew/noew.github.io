@@ -1,7 +1,7 @@
 remote_theme: gaalcaras/academic
 title: Noé M. Wiener
 author: Noé M. Wiener
-description: Noé M. Wiener, Lecturer in Economics at the University of Massachusetts Amherst
+description: Lecturer in Economics at the University of Massachusetts Amherst
 
 baseurl: ""
 url: "http://www.noewiener.com"
@@ -17,4 +17,4 @@ curriculum:
 # Nav menu
 nav_ext_links:
   - name: Blog
-    url: 
+    url:

@@ -1,6 +1,5 @@
 ---
 layout: about
-title: Noe M. Wiener - Economics
 description: Noé M. Wiener, Lecturer in Economics at the University of Massachusetts Amherst
 keywords: noe wiener,economics,inequality,econophysics,econometrics
 ---
