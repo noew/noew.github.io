@@ -8,7 +8,7 @@ keywords: noe wiener,economics,inequality,econophysics,econometrics
 
 ### Inequality and discrimination
 
-- ["By the Content of Their Character? Discrimination, Social Identity, and Observed Distributions of Income"](https://www.peri.umass.edu/publication/item/1122-by-the-content-of-their-character-discrimination-social-identity-and-observed-distributions-of-income) (with Paulo L. dos Santos), forthcoming in *Journal of Mathematical Sociology*.
+- ["By the Content of Their Character? Discrimination, Social Identity, and Observed Distributions of Income"](https://www.peri.umass.edu/publication/item/1122-by-the-content-of-their-character-discrimination-social-identity-and-observed-distributions-of-income) (with Paulo L. dos Santos), *Journal of Mathematical Sociology* (2019).
 - ["Race, gender and the econophysics of income distribution in the USA"](https://www.sciencedirect.com/science/article/pii/S0378437114006153) (with Anwar Shaikh and Nikolaos Papanikolaou), *Physica A: Statistical Mechanics and its Applications* (2014), 415, pp. 54-60
 
 ### Complexity and measurement
