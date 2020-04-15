@@ -18,5 +18,5 @@ keywords: noe wiener,economics,inequality,econophysics,econometrics
 
 ### Immigration
 
-- "The Fading Mark of Migration: Discrimination, Educational Downgrading and Segmented Assimilation in the US", Forthcoming.
+- "The Persistent Mark of Migration in the US: Immigrant Integration as a Social Process", Forthcoming.
 - ["Diversity in Segmention. Patterns of Immigrant Competition in US Labor Markets"](https://ideas.repec.org/p/new/wpaper/1901.html), Working Paper.
