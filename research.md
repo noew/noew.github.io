@@ -19,4 +19,4 @@ keywords: noe wiener,economics,inequality,econophysics,econometrics
 ### Immigration
 
 - "Complexity, Diversity and Integration: Evidence from Recent US Immigration", Forthcoming.
-- "Labor Market Segmentation and Immigrant Competition: A Quantal Response Statistical Equilibrium Analysis", Forthcoming. [\[Working Paper Version\]](https://ideas.repec.org/p/new/wpaper/1901.html), Working Paper.
+- "Labor Market Segmentation and Immigrant Competition: A Quantal Response Statistical Equilibrium Analysis", Forthcoming. [\[Working Paper Version\]](https://ideas.repec.org/p/new/wpaper/1901.html).
