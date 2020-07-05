@@ -14,7 +14,7 @@ keywords: noe wiener,economics,inequality,econophysics,econometrics
 ### Complexity and measurement
 
 - ["Indices of Informational Association and Analysis of Complex Socio-Economic Systems"](https://www.mdpi.com/1099-4300/21/4/367) (with Paulo L. dos Santos), *Entropy* (2019), 21(4), 367.
-- ["Measuring Labor Market Segmentation from Incomplete Data"](https://www.umass.edu/economics/publications/2018-01.pdf), Working Paper.
+- ["Designer Systems of Systems. A Rational Integrated Approach of System Engineering ..."](https://link-springer-com.silk.library.umass.edu/chapter/10.1007/978-3-319-38756-7_3) (with Harry H. Hilton and Steven J. D'Urso), *Trans-Disciplinary Perspectives on System Complexity*, Flumerfelt, S. and Kahlen, F-J. (eds.). Springer, New York, pp. 49-84.
 
 ### Immigration
 
