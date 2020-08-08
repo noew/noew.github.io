@@ -10,4 +10,4 @@ My goal is for students to be able to look at real-world economic issues from di
 
 In my classes on quantitative research methods, I teach modern techniques of statistical inference and data analysis, emphasizing simulation, data visualization and reproducibility.
 
-My teaching fields include [labor economics]((https://umass.box.com/v/labor-330), [inequality](https://umass.box.com/s/20jyd1q56gvb928gj63khzxpcnlre0oa)), [microeconomics](http://umass.box.com/v/econ103h-syllabus), and [quantitative methods](https://umass.box.com/v/syllabus-econ452).
+My teaching fields include [labor economics](https://umass.box.com/v/labor-330), [inequality](https://umass.box.com/s/20jyd1q56gvb928gj63khzxpcnlre0oa), [microeconomics](http://umass.box.com/v/econ103h-syllabus), and [quantitative methods](https://umass.box.com/v/syllabus-econ452).
