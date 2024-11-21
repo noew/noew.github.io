@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
-description: Noé M. Wiener, Lecturer in Economics at the University of Massachusetts Amherst
+description: Noé M. Wiener, Senior Lecturer in Economics at the University of Massachusetts Amherst
 keywords: noe wiener,economics,inequality,econophysics,econometrics
 ---
 
