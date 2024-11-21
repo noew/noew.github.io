@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /research/
-description: Noé M. Wiener, Lecturer in Economics at the University of Massachusetts Amherst
+description: Noé M. Wiener, Senior Lecturer in Economics at the University of Massachusetts Amherst
 keywords: noe wiener,economics,inequality,econophysics,econometrics
 ---
 
@@ -12,8 +12,9 @@ keywords: noe wiener,economics,inequality,econophysics,econometrics
 - ["Race, gender and the econophysics of income distribution in the USA"](https://www.sciencedirect.com/science/article/pii/S0378437114006153) (with Anwar Shaikh and Nikolaos Papanikolaou), *Physica A: Statistical Mechanics and its Applications* (2014), 415, pp. 54-60
 - ["We Need to Talk about Economics"](https://developingeconomics.org/2021/06/28/we-need-to-talk-about-economics/) (with Paulo L. dos Santos), (*Developing Economics Blog*)
 
-### Immigration
+### Labor economics
 
+- ["U.S. Teachers, Overwork and Perceptions of Work-Time Reductions: Evidence from Massachusetts"](https://peri.umass.edu/images/publication/WP613.pdf) (with Katherine A. Moos), (Working Paper)
 - ["Labor Market Segmentation and Immigrant Competition: A Quantal Response Statistical Equilibrium Analysis"](https://www.mdpi.com/1099-4300/22/7/742), *Entropy* (2020), 22(7), 742.
 - ["Diversity in Segmention. Patterns of Immigrant Competition in US Labor Markets"](https://www.economicpolicyresearch.org/econ/2019/NSSR_WP_012019.pdf), (Working Paper) 
 - ["Complexity, Diversity and Integration: Evidence from Recent US Immigration"](https://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1332&context=econ_workingpaper), (Working Paper).
