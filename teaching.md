@@ -10,4 +10,4 @@ My goal is for students to be able to look at real-world economic issues from di
 
 In my classes on quantitative research methods, I teach modern techniques of statistical inference and data analysis, emphasizing simulation, data visualization and reproducibility.
 
-My teaching fields include [labor economics](https://umass-my.sharepoint.com/:b:/g/personal/nwiener_umass_edu/EXdvxgZksfNApwbgBKuj09wBID7445r3je5S8qtn34JGuQ?e=NCrYiQ) and [econometrics]([https://umass-my.sharepoint.com/:b:/g/personal/nwiener_umass_edu/EYM4k8KtfaxPpedYq_622PkBFqywKwrXLBkKNR9jvsjSvQ?e=bjbo9h](https://umass-my.sharepoint.com/:b:/g/personal/nwiener_umass_edu/IQCDOJPCrX2sT6XnWKv-ttj5ARassCsK1ywZCjUfY77I0r0?e=pz3aXS)).
+My teaching fields include [labor economics](https://umass-my.sharepoint.com/:b:/g/personal/nwiener_umass_edu/EXdvxgZksfNApwbgBKuj09wBID7445r3je5S8qtn34JGuQ?e=NCrYiQ) and [econometrics](https://umass-my.sharepoint.com/:b:/g/personal/nwiener_umass_edu/EYM4k8KtfaxPpedYq_622PkBFqywKwrXLBkKNR9jvsjSvQ?e=bjbo9h](https://umass-my.sharepoint.com/:b:/g/personal/nwiener_umass_edu/IQCDOJPCrX2sT6XnWKv-ttj5ARassCsK1ywZCjUfY77I0r0?e=pz3aXS).
